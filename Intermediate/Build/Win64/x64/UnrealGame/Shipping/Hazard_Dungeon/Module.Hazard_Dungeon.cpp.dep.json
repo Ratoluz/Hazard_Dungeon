@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\patry\\documents\\github\\hazard_dungeon\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\hazard_dungeon\\module.hazard_dungeon.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\patry\\documents\\github\\hazard_dungeon\\intermediate\\build\\win64\\x64\\hazard_dungeon\\shipping\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\patry\\documents\\github\\hazard_dungeon\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\hazard_dungeon\\definitions.hazard_dungeon.h",
+            "c:\\users\\patry\\documents\\github\\hazard_dungeon\\intermediate\\source\\hazard_dungeon.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\patry\\Documents\\GitHub\\Hazard_Dungeon\\Intermediate\\Source\\Hazard_Dungeon.Build.cs",
+		"C:\\Users\\patry\\Documents\\GitHub\\Hazard_Dungeon\\Intermediate\\Source\\Hazard_Dungeon.Target.cs",
+		"C:\\Users\\patry\\Documents\\GitHub\\Hazard_Dungeon\\Intermediate\\Source\\Hazard_DungeonClient.Target.cs",
+		"C:\\Users\\patry\\Documents\\GitHub\\Hazard_Dungeon\\Intermediate\\Source\\Hazard_DungeonEditor.Target.cs",
+		"C:\\Users\\patry\\Documents\\GitHub\\Hazard_Dungeon\\Intermediate\\Source\\Hazard_DungeonServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
